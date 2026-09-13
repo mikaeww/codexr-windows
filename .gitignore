@@ -1,0 +1,16 @@
+/dist/
+/easy-g
+/codexr
+/codex-mux
+*.exe
+*.zip
+*.iso
+*.log
+.env
+.env.*
+.codex/
+.codex-mux/
+node_modules/
+auth.json
+config.toml
+control-token
